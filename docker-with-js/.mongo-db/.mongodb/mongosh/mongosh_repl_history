@@ -1,0 +1,15 @@
+db.users.find();
+show collections
+use test
+show collections
+use local
+show collections
+show collections();
+show collections()
+db.getCollectionNames();
+db.getCollectionsName();
+db.getCollectionsName()'
+db.showcollections();
+show collections();
+use admin
+show dbs;
